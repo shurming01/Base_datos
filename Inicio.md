@@ -369,7 +369,7 @@ En bases de datos, una entidad es la representación de un objeto o concepto del
 
         * Como se puede ver en la imagen anterior la llave primaria de esta entidad se debe formar apartir de los dos constraints que serian la llave foranea y la principal.
 
-          * A veces esto se vuelve complicado manejar y conviene hacer una llave artificial agregada lo cual  aria que tengamos un post_etiquetas_id y ya nada más se tendria la referencia las dos tablas y de esa forma se aseguraria que no se repita y lo manejamos de manera separada.
+          * A veces esto se vuelve complicado manejar y conviene hacer una llave artificial agregada lo cual  aria que tengamos un post_etiquetas_id y ya nada más se tendria la referencia las dos tablas y de esa forma se aseguraria que no se repita y lo manejamos de manera separada..
 
 
 
